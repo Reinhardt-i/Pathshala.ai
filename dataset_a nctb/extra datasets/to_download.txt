@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/abyaadrafid/bnwiki
+https://www.kaggle.com/datasets/sadmanaraf/bangla-wikipedia-dataset
